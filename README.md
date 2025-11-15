@@ -1,2 +1,2 @@
 # anis-xinfo-api
-Free Fire Player Info API
+Free Fire Player jwt token API
